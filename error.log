@@ -1,0 +1,178 @@
+[2024-07-30 16:46:47 -0300] [383845] [INFO] Starting gunicorn 22.0.0
+[2024-07-30 16:46:47 -0300] [383845] [INFO] Listening at: http://0.0.0.0:8000 (383845)
+[2024-07-30 16:46:47 -0300] [383845] [INFO] Using worker: gunicorn.workers.ggevent.GeventWorker
+[2024-07-30 16:46:47 -0300] [383846] [INFO] Booting worker with pid: 383846
+[2024-07-30 16:46:47 -0300] [383847] [INFO] Booting worker with pid: 383847
+[2024-07-30 16:46:47 -0300] [383848] [INFO] Booting worker with pid: 383848
+[2024-07-30 16:46:47 -0300] [383849] [INFO] Booting worker with pid: 383849
+[2024-07-30 16:46:48 -0300] [383850] [INFO] Booting worker with pid: 383850
+[2024-07-30 16:46:48 -0300] [383851] [INFO] Booting worker with pid: 383851
+[2024-07-30 16:46:48 -0300] [383852] [INFO] Booting worker with pid: 383852
+[2024-07-30 16:46:48 -0300] [383853] [INFO] Booting worker with pid: 383853
+[2024-07-30 16:46:48 -0300] [383854] [INFO] Booting worker with pid: 383854
+[2024-07-30 16:46:48 -0300] [383855] [INFO] Booting worker with pid: 383855
+[2024-07-30 16:46:48 -0300] [383856] [INFO] Booting worker with pid: 383856
+[2024-07-30 16:46:48 -0300] [383857] [INFO] Booting worker with pid: 383857
+[2024-07-30 16:46:48 -0300] [383858] [INFO] Booting worker with pid: 383858
+[2024-07-30 16:46:48 -0300] [383859] [INFO] Booting worker with pid: 383859
+[2024-07-30 16:46:48 -0300] [383862] [INFO] Booting worker with pid: 383862
+[2024-07-30 16:46:48 -0300] [383882] [INFO] Booting worker with pid: 383882
+[2024-07-30 16:46:48 -0300] [383883] [INFO] Booting worker with pid: 383883
+[2024-07-30 16:47:42 -0300] [383845] [INFO] Handling signal: int
+[2024-07-30 19:47:42 +0000] [383857] [INFO] Worker exiting (pid: 383857)
+[2024-07-30 19:47:42 +0000] [383859] [INFO] Worker exiting (pid: 383859)
+[2024-07-30 19:47:42 +0000] [383858] [INFO] Worker exiting (pid: 383858)
+[2024-07-30 19:47:42 +0000] [383862] [INFO] Worker exiting (pid: 383862)
+[2024-07-30 19:47:42 +0000] [383851] [INFO] Worker exiting (pid: 383851)
+[2024-07-30 19:47:42 +0000] [383854] [INFO] Worker exiting (pid: 383854)
+[2024-07-30 19:47:42 +0000] [383882] [INFO] Worker exiting (pid: 383882)
+[2024-07-30 19:47:42 +0000] [383849] [INFO] Worker exiting (pid: 383849)
+[2024-07-30 19:47:42 +0000] [383856] [INFO] Worker exiting (pid: 383856)
+[2024-07-30 19:47:42 +0000] [383852] [INFO] Worker exiting (pid: 383852)
+[2024-07-30 19:47:42 +0000] [383850] [INFO] Worker exiting (pid: 383850)
+[2024-07-30 19:47:42 +0000] [383883] [INFO] Worker exiting (pid: 383883)
+[2024-07-30 19:47:42 +0000] [383855] [INFO] Worker exiting (pid: 383855)
+[2024-07-30 19:47:42 +0000] [383853] [INFO] Worker exiting (pid: 383853)
+[2024-07-30 19:47:42 +0000] [383846] [INFO] Worker exiting (pid: 383846)
+[2024-07-30 19:47:42 +0000] [383847] [INFO] Worker exiting (pid: 383847)
+[2024-07-30 19:47:42 +0000] [383848] [INFO] Worker exiting (pid: 383848)
+[2024-07-30 16:47:43 -0300] [383845] [INFO] Shutting down: Master
+[2024-07-30 16:47:44 -0300] [384115] [INFO] Starting gunicorn 22.0.0
+[2024-07-30 16:47:44 -0300] [384115] [INFO] Listening at: http://0.0.0.0:8000 (384115)
+[2024-07-30 16:47:44 -0300] [384115] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2024-07-30 16:47:44 -0300] [384123] [INFO] Booting worker with pid: 384123
+[2024-07-30 16:47:44 -0300] [384124] [INFO] Booting worker with pid: 384124
+[2024-07-30 16:47:44 -0300] [384125] [INFO] Booting worker with pid: 384125
+[2024-07-30 19:47:44 +0000] [384123] [INFO] Started server process [384123]
+[2024-07-30 19:47:44 +0000] [384123] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384123] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384123] [INFO] Application startup complete.
+[2024-07-30 19:47:44 +0000] [384124] [INFO] Started server process [384124]
+[2024-07-30 19:47:44 +0000] [384124] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384124] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384124] [INFO] Application startup complete.
+[2024-07-30 16:47:44 -0300] [384126] [INFO] Booting worker with pid: 384126
+[2024-07-30 16:47:44 -0300] [384127] [INFO] Booting worker with pid: 384127
+[2024-07-30 19:47:44 +0000] [384125] [INFO] Started server process [384125]
+[2024-07-30 19:47:44 +0000] [384125] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384125] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384125] [INFO] Application startup complete.
+[2024-07-30 16:47:44 -0300] [384128] [INFO] Booting worker with pid: 384128
+[2024-07-30 19:47:44 +0000] [384126] [INFO] Started server process [384126]
+[2024-07-30 19:47:44 +0000] [384126] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384126] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384126] [INFO] Application startup complete.
+[2024-07-30 16:47:44 -0300] [384129] [INFO] Booting worker with pid: 384129
+[2024-07-30 19:47:44 +0000] [384127] [INFO] Started server process [384127]
+[2024-07-30 19:47:44 +0000] [384127] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384127] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384127] [INFO] Application startup complete.
+[2024-07-30 16:47:44 -0300] [384130] [INFO] Booting worker with pid: 384130
+[2024-07-30 16:47:44 -0300] [384131] [INFO] Booting worker with pid: 384131
+[2024-07-30 19:47:44 +0000] [384128] [INFO] Started server process [384128]
+[2024-07-30 19:47:44 +0000] [384128] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384128] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384128] [INFO] Application startup complete.
+[2024-07-30 16:47:44 -0300] [384132] [INFO] Booting worker with pid: 384132
+[2024-07-30 19:47:44 +0000] [384129] [INFO] Started server process [384129]
+[2024-07-30 19:47:44 +0000] [384129] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384129] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384129] [INFO] Application startup complete.
+[2024-07-30 19:47:44 +0000] [384130] [INFO] Started server process [384130]
+[2024-07-30 19:47:44 +0000] [384130] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384130] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384130] [INFO] Application startup complete.
+[2024-07-30 19:47:44 +0000] [384131] [INFO] Started server process [384131]
+[2024-07-30 19:47:44 +0000] [384131] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384131] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384131] [INFO] Application startup complete.
+[2024-07-30 16:47:44 -0300] [384133] [INFO] Booting worker with pid: 384133
+[2024-07-30 16:47:44 -0300] [384134] [INFO] Booting worker with pid: 384134
+[2024-07-30 19:47:44 +0000] [384132] [INFO] Started server process [384132]
+[2024-07-30 19:47:44 +0000] [384132] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384132] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384132] [INFO] Application startup complete.
+[2024-07-30 16:47:44 -0300] [384135] [INFO] Booting worker with pid: 384135
+[2024-07-30 19:47:44 +0000] [384133] [INFO] Started server process [384133]
+[2024-07-30 19:47:44 +0000] [384133] [INFO] Waiting for application startup.
+[2024-07-30 19:47:44 +0000] [384133] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:44 +0000] [384133] [INFO] Application startup complete.
+[2024-07-30 16:47:44 -0300] [384136] [INFO] Booting worker with pid: 384136
+[2024-07-30 19:47:45 +0000] [384134] [INFO] Started server process [384134]
+[2024-07-30 19:47:45 +0000] [384134] [INFO] Waiting for application startup.
+[2024-07-30 19:47:45 +0000] [384134] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:45 +0000] [384134] [INFO] Application startup complete.
+[2024-07-30 19:47:45 +0000] [384135] [INFO] Started server process [384135]
+[2024-07-30 19:47:45 +0000] [384135] [INFO] Waiting for application startup.
+[2024-07-30 19:47:45 +0000] [384135] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:45 +0000] [384135] [INFO] Application startup complete.
+[2024-07-30 16:47:45 -0300] [384137] [INFO] Booting worker with pid: 384137
+[2024-07-30 16:47:45 -0300] [384138] [INFO] Booting worker with pid: 384138
+[2024-07-30 16:47:45 -0300] [384141] [INFO] Booting worker with pid: 384141
+[2024-07-30 19:47:45 +0000] [384136] [INFO] Started server process [384136]
+[2024-07-30 19:47:45 +0000] [384136] [INFO] Waiting for application startup.
+[2024-07-30 19:47:45 +0000] [384136] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:45 +0000] [384136] [INFO] Application startup complete.
+[2024-07-30 19:47:45 +0000] [384137] [INFO] Started server process [384137]
+[2024-07-30 19:47:45 +0000] [384137] [INFO] Waiting for application startup.
+[2024-07-30 19:47:45 +0000] [384137] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:45 +0000] [384137] [INFO] Application startup complete.
+[2024-07-30 19:47:45 +0000] [384138] [INFO] Started server process [384138]
+[2024-07-30 19:47:45 +0000] [384138] [INFO] Waiting for application startup.
+[2024-07-30 19:47:45 +0000] [384138] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:45 +0000] [384138] [INFO] Application startup complete.
+[2024-07-30 19:47:45 +0000] [384141] [INFO] Started server process [384141]
+[2024-07-30 19:47:45 +0000] [384141] [INFO] Waiting for application startup.
+[2024-07-30 19:47:45 +0000] [384141] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2024-07-30 19:47:45 +0000] [384141] [INFO] Application startup complete.
+[2024-07-30 16:47:54 -0300] [384115] [INFO] Handling signal: int
+[2024-07-30 19:47:54 +0000] [384141] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384123] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384133] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384132] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384128] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384130] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384127] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384131] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384124] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384134] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384137] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384129] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384135] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384136] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384126] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384125] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384138] [INFO] Shutting down
+[2024-07-30 19:47:54 +0000] [384141] [INFO] Finished server process [384141]
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384141) was sent SIGINT!
+[2024-07-30 19:47:54 +0000] [384123] [INFO] Finished server process [384123]
+[2024-07-30 19:47:54 +0000] [384133] [INFO] Finished server process [384133]
+[2024-07-30 19:47:54 +0000] [384132] [INFO] Finished server process [384132]
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384123) was sent SIGINT!
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384133) was sent SIGINT!
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384132) was sent SIGINT!
+[2024-07-30 19:47:54 +0000] [384128] [INFO] Finished server process [384128]
+[2024-07-30 19:47:54 +0000] [384130] [INFO] Finished server process [384130]
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384128) was sent SIGINT!
+[2024-07-30 19:47:54 +0000] [384127] [INFO] Finished server process [384127]
+[2024-07-30 19:47:54 +0000] [384131] [INFO] Finished server process [384131]
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384130) was sent SIGINT!
+[2024-07-30 19:47:54 +0000] [384124] [INFO] Finished server process [384124]
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384127) was sent SIGINT!
+[2024-07-30 19:47:54 +0000] [384134] [INFO] Finished server process [384134]
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384134) was sent SIGINT!
+[2024-07-30 19:47:54 +0000] [384137] [INFO] Finished server process [384137]
+[2024-07-30 19:47:54 +0000] [384129] [INFO] Finished server process [384129]
+[2024-07-30 19:47:54 +0000] [384135] [INFO] Finished server process [384135]
+[2024-07-30 19:47:54 +0000] [384136] [INFO] Finished server process [384136]
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384137) was sent SIGINT!
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384136) was sent SIGINT!
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384129) was sent SIGINT!
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384135) was sent SIGINT!
+[2024-07-30 19:47:54 +0000] [384126] [INFO] Finished server process [384126]
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384126) was sent SIGINT!
+[2024-07-30 19:47:54 +0000] [384125] [INFO] Finished server process [384125]
+[2024-07-30 19:47:54 +0000] [384138] [INFO] Finished server process [384138]
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384138) was sent SIGINT!
+[2024-07-30 16:47:54 -0300] [384115] [ERROR] Worker (pid:384125) was sent SIGINT!
+[2024-07-30 16:47:54 -0300] [384115] [INFO] Shutting down: Master
